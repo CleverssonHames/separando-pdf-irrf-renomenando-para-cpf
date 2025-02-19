@@ -2,4 +2,4 @@ Esse código pega o arquivo com todos os CPFs de IRRF gerado pela DIRF, separa p
 
 Esse arquivo é especifico e não funcionará em outros.
 
-Em resumo a logica dele valida se o IRRF de um determinado CPF tem uma ou duas paginas, extrai as paginas ou a pagina e unifica em um unico arquivo.
+Em resumo a logica dele valida se o IRRF de um determinado CPF tem uma ou duas paginas, extrai as paginas ou a pagina e unifica em um unico arquivo como um novo PDF.
