@@ -1,6 +1,6 @@
 # Separador de PDF - IRPF
 
-## Descrições da das funções realizadas pelo programa:
+### Descrições das funções realizadas pelo programa:
 
 Esse código pega o arquivo com todos os CPFs de IRRF gerado pela DIRF, separa por cada CPF e renomeia de acordo com o CPF do arquivo.
 
